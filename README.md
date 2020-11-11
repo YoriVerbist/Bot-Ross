@@ -23,4 +23,4 @@ The principle is simple: we define two distances, one for the content (DC) and o
 <img src="/data/paintings/ocean.jpg" width="400">
 
 ##### Output image:
-<img src="/data/output/lion2.jpg" width="400">
+<img src="/data/output/lion2.png" width="400">
