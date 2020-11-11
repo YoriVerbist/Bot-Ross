@@ -1,4 +1,4 @@
-# Paintings
+# Bot-Ross
 This is a paintings classifier that says by which painter the painting is drawn. There is also a neural style transfer added so you can apply the painting style to other images.
 
 ## Neural Style Transfer
