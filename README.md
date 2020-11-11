@@ -10,5 +10,5 @@ The principle is simple: we define two distances, one for the content (DC) and o
 ![](/data/paintings/Red-Eyed_Crocodile_Skink.jpg)
 ![](/data/paintings/van-gogh-starry-night.png)
 
-#### Output image:
+##### Output image:
 ![](/data/output/index.png)
