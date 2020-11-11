@@ -7,7 +7,7 @@ The principle is simple: we define two distances, one for the content (DC) and o
 
 ### Example
 ##### Input and style image:
-![](/data/paintings/Red-Eyed Crocodile Skink.jpg)
+![](/data/paintings/Red-Eyed_Crocodile_Skink.jpg)
 ![](/data/paintings/van-gogh-starry-night.png)
 
 #### Output image:
