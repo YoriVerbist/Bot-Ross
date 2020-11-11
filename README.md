@@ -7,20 +7,20 @@ The principle is simple: we define two distances, one for the content (DC) and o
 
 ### Examples
 ##### Input and style image:
-![](/data/paintings/lion.jpg)
-![](/data/paintings/van-gogh-starry-night.png)
+<img src="/data/paintings/lion.jpg" width="400">
+<img src="/data/paintings/van-gogh-starry-night.png" width="400">
 
 ##### Output image:
-![](/data/output/index.png)
+<img src="/data/output/index.png" width="400">
 
 ##### Style image:
-![](/data/paintings/waves1.jpeg)
+<img src="/data/paintings/waves1.jpeg" width="400">
 
 ##### Output image:
-![](/data/output/lion.png)
+<img src="/data/output/lion.png" width="400">
 
 ##### Style image:
-![](/data/paintings/ocean.jpg)
+<img src="/data/paintings/ocean.jpg" width="400">
 
 ##### Output image:
-![](/data/output/lion1.png)
+<img src="/data/output/lion2.jpg" width="400">
