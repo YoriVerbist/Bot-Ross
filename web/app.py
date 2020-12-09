@@ -24,6 +24,10 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 
+@app.route('/')
+def home():
+    return 'Hello world'
+
 @app.route('/predict', methods=['POST'])
 def predict():
     if 'image' not in request.files:
