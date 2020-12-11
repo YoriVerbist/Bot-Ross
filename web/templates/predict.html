@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block main %}
+{% if filename %}
+	<div>
+		<img src="{{ url_for('static', filename=filename) }}">
+	</div>
+{% endif %}
+<p>Your painting is a {{ pred }} (certainty: {{ certainty }})</p>
+{% endblock %}
