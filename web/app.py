@@ -56,10 +56,6 @@ def predict():
             return render_template("predict.html", pred = pred[0], filename = 'uploads/' + filename, certainty = certainty)
 
         return {'error': 'something went wrong.'}, 500
-
-def display_image(filename):
-	#print('display_image filename: ' + filename)
-	return redirect(url_for('static', filename='uploads/' + filename), code=301)
         
 
 
