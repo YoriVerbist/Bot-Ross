@@ -2,3 +2,5 @@
 /.ipynb_checkpoints
 /models
 __pychache__
+/web/__pychache__
+/web/static
