@@ -1,6 +1,9 @@
 {% extends "layout.html" %}
 
 {% block main %}
+<h1>Bot-Ross</h1>
+<hr>
+<p>This is a painting classifier. Upload a painting below and see who painted it!</p>
 <form action="/predict" method="post" enctype="multipart/form-data">
     <div class="input-group mb-3">
     <label class="input-group-text" for="image">Upload</label>
